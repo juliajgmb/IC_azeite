@@ -1,0 +1,5 @@
+# Testado com Python 3.13 (também funciona em 3.12)
+pandas==3.1.1
+numpy==2.5.5
+matplotlib==3.11.2
+ipykernel==7.4.0
